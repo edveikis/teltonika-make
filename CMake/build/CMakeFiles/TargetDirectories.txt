@@ -1,0 +1,4 @@
+/home/studentas/Development/automate-c-compilation/CMake/build/CMakeFiles/library.dir
+/home/studentas/Development/automate-c-compilation/CMake/build/CMakeFiles/Hello.dir
+/home/studentas/Development/automate-c-compilation/CMake/build/CMakeFiles/edit_cache.dir
+/home/studentas/Development/automate-c-compilation/CMake/build/CMakeFiles/rebuild_cache.dir
